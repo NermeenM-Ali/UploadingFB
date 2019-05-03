@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "228480766381",
+    "firebase_url": "https://rnmedical-fbd6c.firebaseio.com",
+    "project_id": "rnmedical-fbd6c",
+    "storage_bucket": "rnmedical-fbd6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228480766381:android:1f8a8a0d3471e50b",
+        "android_client_info": {
+          "package_name": "com.medicalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228480766381-t2jb3ic9u5rgh9ptogqd714amkvref8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKemQMGAMMssSpKajqgVbMao0j0jLBSoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228480766381-t2jb3ic9u5rgh9ptogqd714amkvref8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
